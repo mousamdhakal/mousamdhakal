@@ -2,7 +2,7 @@
 ### Hi there, I'm Mousam 👋
 
 ## I'm a curious learner, a student and a developer!
-- 🔭 I’m currently working on a [Internship Projects at LF Technology][website]!
+- 🔭 I’m currently working on [Internship Projects at LF Technology][website]!
 - 🌱 I’m currently learning MERN stack
 - ⚡ I like to travel new places and build new experiences.
 
