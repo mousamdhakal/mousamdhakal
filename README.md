@@ -1,8 +1,7 @@
 
 ### Hi there, I'm Mousam 👋
 
-## I'm a curious learner, a student and a developer!
-- 🔭 I’m currently working at Leapfrog Technology.
+## I'm a curious learner and a developer!
 <!-- - 🌱 I’m currently learning Angular. -->
 - ⚡ I like to travel new places and build new experiences.
 
